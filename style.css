@@ -1,0 +1,45 @@
+div{
+    display: inline;
+
+}
+header{
+    background-color: black;
+    color: white;
+   text-align: center;
+   padding: 20px;
+}
+footer{
+    background-color: black;
+    color: white;
+position: absolute;
+top: 700px;
+padding-right: 1460px;
+}
+.container{
+flex-direction: row;}
+.main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 50px;
+    justify-content: center;
+    
+    
+
+}
+.box{
+    border: 5px double orange;
+ padding: 30px;
+ width: 190px;
+ margin: 10px;
+ background-color: gray;
+ flex: 200px;
+ text-align: center;
+}
+p{
+    
+    text-align: center;
+    margin-right: -1400px;
+    padding: 20px;
+}
+
